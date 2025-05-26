@@ -6,5 +6,3 @@ Pyropedia is a web project built with core web technologies. It serves as a dedi
 
 - HTML  
 - CSS  
-- JavaScript  
-- PHP
