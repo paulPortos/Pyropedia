@@ -1,8 +1,10 @@
 # Pyropedia
- 
-== TECH STACK == 
 
-1) HTML
-2) CSS
-3) Javascript
-4) PHP
+Pyropedia is a simple web project built using core web technologies.
+
+## 🔧 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- PHP
